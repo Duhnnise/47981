@@ -25,7 +25,7 @@ void hangman(int num_try);
 int main(){
     char again;//declare again above do while loop in order to enable user to play multiple times
 do{     
-     srand(time(NULL));
+     srand(time(0));
     //Declare Stream
     ifstream in_stream;
     //Declare Variables
