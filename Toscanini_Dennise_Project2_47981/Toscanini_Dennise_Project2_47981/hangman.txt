@@ -1,0 +1,11 @@
+programming
+argument
+parameter
+bloodshed
+function
+vector
+whitespace
+variable
+stream
+algorithm
+uninitialized
